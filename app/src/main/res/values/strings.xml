@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">YouTube Music Player</string>
+    <string name="name">Name</string>
+    <string name="hello">Listen Unlimited Youtube songs</string>
+    <string name="tod">TODO</string>
+    <string name="proceed">Proceed</string>
+    <string name="hell">Name</string>
+    <string name="youtube_music_player">YOUTUBE MUSIC PLAYER</string>
+    <string name="music">HELP YOU EASY TO LISTEN YOUTUBE MUSIC</string>
+    <string name="to">TODO</string>
+    <string name="paste_video_url">Paste Video URL</string>
+    <string name="hint">hint</string>
+    <string name="paste_video_link">Paste Video Link</string>
+    <string name="todo">TODO</string>
+    <string name="play">PLAY</string>
+    <string name="paste_the_url">Paste the URL</string>
+</resources>
